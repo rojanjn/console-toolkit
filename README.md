@@ -33,5 +33,6 @@ Organized through a clean menu system with bulletproof input validation.
 ## How to Run
 
 ```bash
+git clone https://github.com/rojanjn/console-toolkit.git
 cd console-toolkit/ConsoleToolkit
 dotnet run
